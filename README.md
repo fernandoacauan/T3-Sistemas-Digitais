@@ -32,17 +32,17 @@ Neste repositório você encontrará:
 
 Funcionando:
 
-![image](https://github.com/user-attachments/assets/e2683905-33c1-41c2-845a-5f9337eb2797)
+![testbench_boa](https://github.com/user-attachments/assets/be3fdc2f-67d0-4b92-99e9-ebbd13250d22)
 
 Tentando adicionar caso cheio:
 
-![image](https://github.com/user-attachments/assets/53e42d44-2590-4e01-9ea3-b48ad3e2a87f)
+![testbench_ruim](https://github.com/user-attachments/assets/cadd6afe-c125-469f-b86b-dc0fef9a6891)
 
 O tamanho para em 8 (mesmo o testbench tentando adicionar mais), e "ignora" os inputs seguintes. Como pode ser visto no dataOut que só remove o ultimo elemento na posicao 8.
 
 ## Testbench Deserializador
 
-![image](https://github.com/user-attachments/assets/a7c79bd1-057a-4773-bb41-457ee3aa479c)
+![deserializador](https://github.com/user-attachments/assets/7db93e78-3c35-4fb9-ae87-a70bd85f9427)
 
 Antes de 400ns, temos o caso bom e após isso temos o caso ruim.
 
