@@ -25,9 +25,6 @@ architecture fila of CFila is
     signal inicio   : integer := 0;
     signal fim      : integer := 0;
     signal size     : integer := 0;
-
-    type eState is (RESET, IDLE, ENQUEUE, DEQUEUE, ERROR);
-    signal state : eState := RESET;
 begin
     m_lenOut  <= std_logic_vector(to_unsigned(size, 4));
 
