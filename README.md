@@ -38,7 +38,7 @@ Tentando adicionar caso cheio:
 
 ![testbench_ruim](https://github.com/user-attachments/assets/cadd6afe-c125-469f-b86b-dc0fef9a6891)
 
-O tamanho para em 8 (mesmo o testbench tentando adicionar mais), e "ignora" os inputs seguintes. Como pode ser visto no dataOut que só remove o ultimo elemento na posicao 8.
+O tamanho para em 8 (mesmo o testbench tentando adicionar mais), e "ignora" os inputs seguintes. Como pode ser visto no dataOut que só remove o ultimo elemento na posição 8.
 
 ## Testbench Deserializador
 
